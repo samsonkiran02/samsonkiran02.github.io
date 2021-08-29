@@ -1,2 +1,2 @@
-## samsonkiran02.github.io
+# samsonkiran02
 This website power by Samson Kiran.
