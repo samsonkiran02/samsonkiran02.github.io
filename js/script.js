@@ -1,7 +1,7 @@
 document.write( '\n' );
 document.write( '<style>\n' );
 document.write( ' .dis-none {\n' );
-document.write( '      display:non;\n' );
+document.write( '      display:none;\n' );
 document.write( '}\n' );
 document.write( '</style>\n' );
 document.write( '\n' );
