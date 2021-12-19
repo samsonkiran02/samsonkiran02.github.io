@@ -1,8 +1,8 @@
 {
   "short_name": "samsonkiran02",
   "name": "samsonkiran02",
-  "theme_color": "#C700FF",
-  "background_color": "#FFFFFF",
+  "theme_color": "#000000",
+  "background_color": "#00bfff",
   "display": "standalone",
   "icons": [
       {  
